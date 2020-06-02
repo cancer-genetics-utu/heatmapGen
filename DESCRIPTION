@@ -1,0 +1,12 @@
+Package: heatmapGen
+Type: Package
+Version: 0.1-0
+Title: Heatmap tools
+Author: Vidal Fey <vidal.fey@utu.fi>
+Maintainer: Dhanaprakash Jambulingam <dhajam@utu.fi>
+Description: Various tools to generate heatmaps
+Depends: Biobase, Heatplus, grDevices
+Suggests: RColorBrewer
+License: MIT License
+LazyLoad: yes
+NeedsCompilation: no
